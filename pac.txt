@@ -2,6 +2,8 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "youglish.com": 1,
+  "emkei.cz": 1,
   "stackoverflow.com": 1,
   "raw.githubusercontent.com": 1,
   "helm.sh": 1,
@@ -2479,8 +2481,7 @@ var domains = {
   "lookatgame.com": 1, 
   "darpa.mil": 1, 
   "wtfpeople.com": 1, 
-  "1-apple.com.tw": 1,
-  "quora.com": 1
+  "1-apple.com.tw": 1
 };
 
 var proxy = "__PROXY__";
